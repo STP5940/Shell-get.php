@@ -1,3 +1,3 @@
 # Shell GET PHP
-Shello PHP 
+Shell PHP GET Commandline
 EX: http://www.website.com/file/all/cmd/Shell.php?0=ls
